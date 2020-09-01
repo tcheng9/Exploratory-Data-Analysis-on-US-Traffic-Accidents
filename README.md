@@ -9,10 +9,12 @@ Things to improve on:
 
 -Cleanliness of code: 
     Variables should be cleaner as there are certain things that I don't remember what it was for and too lazy to fix.
+    
 -Efficiency of EDA:
     The EDA took longer than I would have liked and got stuck at certain points where I wish I had solved quicker.
+    
 -Deeper statistical analysis:
     I want to further my understanding statistics and apply more rigorous statistical analysis in the future.
 
- 
+ Dataset:https://www.kaggle.com/sobhanmoosavi/us-accidents
 
